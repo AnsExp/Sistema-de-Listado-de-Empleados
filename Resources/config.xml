@@ -1,0 +1,6 @@
+<appSettings>
+  <setting key="SecurityIV" value="34A9F545E39CEB1A" />
+  <setting key="SecurityKey" value="B65437AF2EE50772" />
+  <setting key="PathImg" value="C:\Users\roose\OneDrive\Desktop\ProyectoEmpleados\Resources\imgs\" />
+  <setting key="ConnectionString" value="Data Source=DESKTOP-M5BV3EC;Initial Catalog=formulario_dinamico;Trusted_Connection=True" />
+</appSettings>
